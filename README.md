@@ -3,5 +3,5 @@
 Cadastro de evento utilizando comando de decisão em Javascript
 IF (se)
 Else (se Não)
-IF/Else ( Se aninhado)
+IF/Else ( Se / senão)
 Switch (Caso)
